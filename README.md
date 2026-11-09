@@ -1,84 +1,48 @@
 # Networkwalks Wireshark Labs
 
-A portfolio of Wireshark-based network analysis and SOC-style lab exercises completed as part of practical cybersecurity and packet investigation work.
+This repository documents a series of Wireshark-based network investigations and SOC-style lab exercises completed as part of hands-on cybersecurity and packet analysis work. It serves as a portfolio of practical experience in traffic inspection, protocol analysis, and incident-response-focused investigation.
 
 ## Overview
 
-This repository documents hands-on lab work focused on packet analysis, traffic inspection, and security investigation using Wireshark. It contains screenshots from completed exercises that demonstrate practical understanding of:
+The collection includes lab screenshots and scored assessments that demonstrate applied skills in:
 
-- network traffic capture
-- protocol analysis
-- suspicious traffic identification
-- packet stream investigation
-- SOC-style forensic analysis
-- incident-response style reasoning
+- network traffic capture and inspection
+- protocol and application-layer analysis
+- identifying suspicious or malicious activity
+- packet stream reconstruction and forensic review
+- threat-hunting and incident-response workflows
+- VoIP and call analysis
 
-## Project Purpose
+## Objectives
 
-The purpose of this repository is to preserve and showcase practical experience in cybersecurity and networking by recording the results of lab exercises performed in Wireshark. Each screenshot reflects a completed challenge, challenge answer, and corresponding score.
+This repository highlights the ability to analyze packet captures, interpret communication patterns, and reconstruct events from network data in a structured, evidence-based manner. It reflects hands-on experience using Wireshark for troubleshooting, validation, and security investigation.
 
-## Repository Contents
+## Focus Areas
 
-This repository currently contains image-based lab records, including:
+- Traffic analysis and packet inspection
+- TCP stream and hidden data analysis
+- Protocol decoding and application-layer review
+- Attack-pattern recognition and brute-force activity
+- VoIP analysis and call reconstruction
+- Forensic investigation and timeline-based event analysis
 
-- Wireshark lab screenshots
-- SOC challenge result screenshots
-- scored assessment pages
-- completed network analysis exercises
+## Results
 
-## Lab Focus Areas
+The exercises in this repository include successful outcomes such as:
 
-The work in this repository covers several key topics commonly used in networking and cybersecurity investigations:
+- 90 / 100
+- 90 / 100
+- 100 / 100
 
-- Traffic capture and packet inspection
-- TCP stream analysis
-- Hidden traffic and embedded data discovery
-- Protocol and application-layer review
-- Brute-force and attack pattern recognition
-- VoIP and call replay analysis
-- Forensic reconstruction of events from packet data
-
-## Results Highlight
-
-The repository includes successful lab outcomes, including:
-
-- 90 / 100 marks
-- 90 / 100 marks
-- 100 / 100 marks
-
-These scores indicate strong performance across multiple Wireshark and network analysis exercises.
-
-## Why This Matters
-
-Wireshark is a core tool in cybersecurity and networking for:
-
-- troubleshooting network issues
-- validating application behavior
-- investigating security incidents
-- identifying suspicious or malicious traffic
-- reconstructing communication patterns
-
-This repository reflects practical application of those skills in a lab environment.
-
-## Notes
-
-- This project is primarily a documentation and archive of completed labs.
-- The repository currently contains image artifacts rather than executable source code.
-- It serves as evidence of hands-on learning and applied network analysis skills.
+These results reflect strong performance across multiple packet-analysis and network-security lab exercises.
 
 ## Intended Use
 
 This repository can be used as:
 
-- a personal lab portfolio
-- evidence of practical cybersecurity work
+- a professional lab portfolio
+- evidence of hands-on cybersecurity practice
 - a showcase of Wireshark analysis capabilities
-- a record of completed training or challenge work
+- a record of completed training and assessment work
 
-## License
-
-This repository does not currently include a license file. If you plan to publish or share it publicly beyond personal use, consider adding an appropriate open-source license.
-
----
-
-Built as a record of practical Wireshark and network analysis work.
+This project is intended to document practical lab work and serve as a record of applied learning in network analysis and cybersecurity investigation.
